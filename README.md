@@ -1,4 +1,4 @@
-Matemáticas para Data Science: Probabilidad
+#Matemáticas para Data Science: Probabilidad
 
 
 Fundamentos probabilidad para entender las matemáticas detrás de los algoritmos más usados en Machine Learning y Data Science.

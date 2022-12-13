@@ -33,7 +33,7 @@ Esto mismo puede ser aplicado a calcular la probabilidad de que el dado A salga 
 
 **• Conjunta P(A,B):**  
 Es la unión de sucesos. (En inglés: joint)  
-$$P(A,B)=P(A\&B) = P(A\cap B)$$
+$$P(A,B)=P(A\& B) = P(A\cap B)$$
 **Ejemplos típicos**  
 Probabilidad de obtener un número par y un número impar al lanzar dos dados.  
 Probabilidad de que el día este soleado y el cielo despejado.  

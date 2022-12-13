@@ -1,7 +1,6 @@
-﻿
 
+###**• Marginal P(A):**  
 
-**• Marginal P(A):**  
 Cuando obtienes una probabilidad sencilla. Puede obtenerse a partir de una probabilidad conjunta.  **Ejemplos típicios:**  
 Probabilidad de obtener cara en una moneda  
 Probabilidad de obtener “2” en un dado  
@@ -31,16 +30,16 @@ Esto es: La probabilidad de que una persona vote por este político, ahora **IND
 
 Esto mismo puede ser aplicado a calcular la probabilidad de que el dado A salga par, sumando el supuesto de que el dado B sea par con el supuesto de que el dado B sea impar. El resultado final será la probabilidad de que el dado A salga par en general, sin importar si el dado B es par o impar.
 
-**• Conjunta P(A,B):**  
+##**• Conjunta P(A,B):**  
 Es la unión de sucesos. (En inglés: joint)  
-$$P(A,B)=P(A\& B) = P(A\cap B)$$
+$$P(A,B)=P(A \& B) = P(A\cap B)$$
 **Ejemplos típicos**  
 Probabilidad de obtener un número par y un número impar al lanzar dos dados.  
 Probabilidad de que el día este soleado y el cielo despejado.  
 Probabilidad de que el día este soleado con algo de nubes.  
 Probabilidad de sacar un dulce rojo y otro azul.
 
-**• Condicional P(A|B):**  
+##**• Condicional P(A|B):**  
 Que suceda un evento dado que ocurre otro previamente. 
 $$P(A| B)$$ 
 **Ejemplos típicos**  
@@ -50,5 +49,5 @@ Probabilidad de que llueva hoy, dado que el cielo está soleado (hoy).
 Probabilidad de que llueva mañana, por que en la ciudad vecina llovió ayer.  
 Probabilidad de tener una enfermedad mental, después del abuso de sustancias.
 
-**Regla del producto**  
+##**Regla del producto**  
 $P(A,B) = P(A|B) P (B)$
